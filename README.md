@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **web development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/prathima-shrestha-b521752b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/prathima-shrestha-b521752b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/prathima-shrestha-b521752b6?
 
 - 💬 Ask me about **Python**
 
